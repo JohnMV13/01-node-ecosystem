@@ -3,4 +3,4 @@ exports.sayHello = (hello) => {
     return null;
   if(hello)
     return `Hello ${hello}`;
-}
+};
